@@ -1,0 +1,81 @@
+:root {
+    --primary-color: #050A30; /* Cor primária */
+    --secondary-color: #834213; /* Cor secundária */
+    --success-color: #5EA332; /* Cor terciária */
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #834213; /* Cor do fundo */
+}
+
+.navbar-brand {
+    font-weight: 600;
+}
+
+.card {
+    transition: transform 0.2s;
+    border: none;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+     background-color: #F0C44C;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    background-color: #DA9D20
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: contain;
+    padding: 20px;
+    background-color:#050A30; 
+}
+
+.badge {
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.btn-primary {
+    background-color: #5EA332;
+    border-color: #5EA332;
+}
+
+.btn-outline-light:hover {
+    color: var(--primary-color);
+}
+
+#carrinho-contador {
+    display: inline-block;
+    min-width: 20px;
+    text-align: center;
+}
+
+.quantidade-input {
+    width: 60px;
+}
+
+#produto-imagem {
+    max-height: 500px;
+    object-fit: contain;
+}
+
+@media (max-width: 768px) {
+    .card-img-top {
+        height: 150px;
+    }
+}
+
+/* Texto branco com sombra azul escuro */
+.text-branco-sombra {
+    color: #fff !important;
+    text-shadow: 2px 2px 6px #050A30;
+}
+
+/* Texto preto com sombra branca */
+.text-preto-sombra-branca {
+    color: #000 !important;
+    text-shadow: 2px 2px 6px #fff;
+}
+

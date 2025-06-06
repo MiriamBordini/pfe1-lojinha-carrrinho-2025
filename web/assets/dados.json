@@ -1,0 +1,69 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Biquíni Tíffany",
+            "descricao": "Biquíni de alta qualidade com tecido resistente.",
+            "preco": 119.99,
+            "categoria": "Moda praia",
+            "imagem": "assets/images/azulzinho.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "Biquíni Veranno ",
+            "descricao": "Biquíni oficial da loja, com detalhes de girassóis",
+            "preco": 127.70,
+            "categoria": "Moda praia",
+            "imagem": "assets/images/giragira.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "Biquíni Brisa do Verão ",
+            "descricao": "Biquíni com detalhes de girassol, a cara do verão!",
+            "preco": 99.99,
+            "categoria": "Moda praia",
+            "imagem": "assets/images/girasol.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "Biquíni Stefanny",
+            "descricao": "Biquíni na cor marsala, de alta qualidade com tecido resistente.",
+            "preco": 88.98,
+            "categoria": "Moda praia",
+            "imagem": "assets/images/marcala.jpg"
+        },
+        {
+            "id": 5,
+            "nome": "Biquíni Tainá",
+            "descricao": "Biquíni marronzinho liso, de alta qualidade com tecido resistente.",
+            "preco": 109.90,
+            "categoria": "Moda praia",
+            "imagem": "assets/images/marrozinho.jpg"
+        },
+        {
+            "id": 6,
+            "nome": "Biquíni Fernanda",
+            "descricao": "Biquíni rosa majenta, de alta qualidade com tecido resistente.",
+            "preco": 72.80,
+            "categoria": "Moda praia",
+            "imagem": "assets/images/rosinha.jpg"
+        },
+
+                {
+            "id": 7,
+            "nome": "Biquíni Carol",
+            "descricao": "Biquíni no tom verde, com detalhes de amarração",
+            "preco": 99.80,
+            "categoria": "Moda praia",
+            "imagem": "assets/images/verdeclaro.jpg"
+        },
+                {
+            "id": 8,
+            "nome": "Biquíni Pôr do Sol",
+            "descricao": "Biquíni no tom vermelho,cortininha, com detalhe de strass",
+            "preco": 122.90,
+            "categoria": "Moda praia",
+            "imagem": "assets/images/vermelhinho.jpg"
+        }
+    ]
+}
